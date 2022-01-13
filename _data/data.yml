@@ -57,13 +57,7 @@ career-profile:
       penatibus et magnis dis parturient montes, nascetur ridiculus mus.
       Donec quam felis, ultricies nec, pellentesque eu.
       Second paragraph if required.
-education:
-    - degree: Electronics and Telecommunications Engineering
-      university: University of Aveiro
-      time: 2002
-      details: |
-        Studied electronics, telecommunications, computer sciences, networks and management.
-          - SOA, CORBA, ORB, Webservices, HTTP, CMMI, Oracle, Java
+      
 experiences:
     - role: Lead Developer
       time: 2015 - Present
@@ -187,6 +181,14 @@ skills:
 
       - name: Leadership ad Teamwork
         level: 75%
+
+education:
+    - degree: Electronics and Telecommunications Engineering
+      university: University of Aveiro
+      time: 2002
+      details: |
+        Studied electronics, telecommunications, computer sciences, networks and management.
+          - SOA, CORBA, ORB, Webservices, HTTP, CMMI, Oracle, Java
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
