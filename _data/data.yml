@@ -58,7 +58,6 @@ career-profile:
       Second paragraph if required.
       
 experiences:
-    title: Work Experience
     - role: Head of Development
       time: April 2010 - Present
       company: Contisystems
