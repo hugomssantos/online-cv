@@ -58,24 +58,24 @@ career-profile:
       Second paragraph if required.
       
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    title: Work Experience
+    - role: Head of Development
+      time: April 2010 - Present
+      company: Contisystems
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+       Responsible for a team of 19 persons.
+          - Conduct day-to-day project coordination, planning, and implementation across multiple teams
+          - Create functional and technical application decuments
+    - role: Senior Consultant
+      time: June 2008 - April 2010
+      company: GFI Portugal
+      details: |
+        Technical team leader for the development, delivery and maintenance of management system focused on the area of private higher education.
+          - management system focused on the area of private higher education
+          - management system focused on Thermal and Wellness Spa Industry
+    - role: Project Manager
+      time: March 2007 - June 2008
+      company: IN2B
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -84,9 +84,9 @@ experiences:
         pellentesque eu, pretium quis, sem.
           - Bullet point
           - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+    - role: Project Manager
+      time: March 2003 - March 2007
+      company: IN2B
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
