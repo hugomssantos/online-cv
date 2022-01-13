@@ -5,7 +5,6 @@
 sidebar:
     about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: False # set to False if you want education in main section instead of in sidebar
-    skills: True
     
     # Profile information
     name: Hugo Santos
@@ -15,7 +14,7 @@ sidebar:
     # Sidebar links
     email: hugomiguel@gmail.com
     phone: +351 961 858 651
-    website: blog.webjeda.com #do not add http://
+    website: # blog.webjeda.com #do not add http://
     linkedin: hugomsantos
     xing:
     github:
@@ -24,9 +23,9 @@ sidebar:
     bitbucke:
     twitter: # '@webjeda'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
+    codewars: #
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    pdf: # http://www.africau.edu/images/default/sample.pdf
 
     languages:
       - idiom: Portuguese
@@ -124,26 +123,26 @@ projects:
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+    # title: Publications
+    # intro: |
+    #  You can list your publications in this section. Lorem ipsum dolor sit
+    #  amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+    #  bibendum fringilla a eu lectus.
+    # papers:
+    #  - title: The Art of Computer Programming
+    #    link: "#"
+    #    authors: Donald E. Knuth
+    #    conference: Addison-Wesley, 1968
+    #
+    #  - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+    #    link: "#"
+    #    authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+    #    conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+    #
+    #  - title: A syntax directed compiler for Algol 60
+    #    link: "#"
+    #    authors: Edgar T. Irons
+    #    conference: "Comm. ACM 4 (1961), 51–55"
         
 skills:
     title: Skills &amp; Proficiency
